@@ -1,0 +1,42 @@
+.background-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.card-container {
+    background-color: #ffffff;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    font-family: Roboto;
+    padding: 20px;
+    height: 50vh;
+}
+
+.text-container {
+    margin: 10px;
+}
+
+.First-heading {
+    color: #7b8794;
+    font-size: 10px;
+}
+
+.Second-heading {
+    color: #323f4b;
+    font-size: 20px;
+}
+
+.paragraph {
+    color: #7b8794;
+    font-size: 12px;
+}
+
+.button {
+    color: #ffffff;
+    background-color: #323f4b;
+    border-radius: 10px;
+    font-size: 12px;
+    width: 120px;
+    height: 40px;
+}
